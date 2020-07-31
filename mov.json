@@ -1,0 +1,201 @@
+[{
+  "name": "The Shawshank Redemption",
+  "rating": "9.3",
+  "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency."
+}, {
+  "name": "The Godfather",
+  "rating": "9.2",
+  "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+}, {
+  "name": "The Dark Knight",
+  "rating": "9.0",
+  "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+}, {
+  "name": "The Godfather: Part II",
+  "rating": "9.0",
+  "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate."
+}, {
+  "name": "The Lord of the Rings: The Return of the King",
+  "rating": "8.9",
+  "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring."
+}, {
+  "name": "Pulp Fiction",
+  "rating": "8.9",
+  "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+}, {
+  "name": "Schindler's List",
+  "rating": "8.9",
+  "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
+}, {
+  "name": "12 Angry Men",
+  "rating": "8.9",
+  "description": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence."
+}, {
+  "name": "Inception",
+  "rating": "8.8",
+  "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O."
+}, {
+  "name": "Fight Club",
+  "rating": "8.8",
+  "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more."
+}, {
+  "name": "The Lord of the Rings: The Fellowship of the Ring",
+  "rating": "8.8",
+  "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron."
+}, {
+  "name": "Forrest Gump",
+  "rating": "8.8",
+  "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart."
+}, {
+  "name": "Il buono, il brutto, il cattivo",
+  "rating": "8.8",
+  "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery."
+}, {
+  "name": "The Lord of the Rings: The Two Towers",
+  "rating": "8.7",
+  "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard."
+}, {
+  "name": "The Matrix",
+  "rating": "8.7",
+  "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
+}, {
+  "name": "Goodfellas",
+  "rating": "8.7",
+  "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate."
+}, {
+  "name": "Star Wars: Episode V - The Empire Strikes Back",
+  "rating": "8.7",
+  "description": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader and a bounty hunter named Boba Fett all over the galaxy."
+}, {
+  "name": "One Flew Over the Cuckoo's Nest",
+  "rating": "8.7",
+  "description": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients."
+}, {
+  "name": "Seppuku",
+  "rating": "8.7",
+  "description": "When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity."
+}, {
+  "name": "Gisaengchung",
+  "rating": "8.6",
+  "description": "A poor family, the Kims, con their way into becoming the servants of a rich family, the Parks. But their easy life gets complicated when their deception is threatened with exposure."
+}, {
+  "name": "Interstellar",
+  "rating": "8.6",
+  "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival."
+}, {
+  "name": "Cidade de Deus",
+  "rating": "8.6",
+  "description": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin."
+}, {
+  "name": "Sen to Chihiro no kamikakushi",
+  "rating": "8.6",
+  "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts."
+}, {
+  "name": "Saving Private Ryan",
+  "rating": "8.6",
+  "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action."
+}, {
+  "name": "The Green Mile",
+  "rating": "8.6",
+  "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift."
+}, {
+  "name": "La vita è bella",
+  "rating": "8.6",
+  "description": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp."
+}, {
+  "name": "Se7en",
+  "rating": "8.6",
+  "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives."
+}, {
+  "name": "The Silence of the Lambs",
+  "rating": "8.6",
+  "description": "Ayoung F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims."
+}, {
+  "name": "Star Wars",
+  "rating": "8.6",
+  "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader."
+}, {
+  "name": "Shichinin no samurai",
+  "rating": "8.6",
+  "description": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves."
+}, {
+  "name": "It's a Wonderful Life",
+  "rating": "8.6",
+  "description": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed."
+}, {
+  "name": "Joker",
+  "rating": "8.5",
+  "description": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker."
+}, {
+  "name": "Avengers: Infinity War",
+  "rating": "8.5",
+  "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
+}, {
+  "name": "Whiplash",
+  "rating": "8.5",
+  "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential."
+}, {
+  "name": "The Intouchables",
+  "rating": "8.5",
+  "description": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver."
+}, {
+  "name": "The Prestige",
+  "rating": "8.5",
+  "description": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other."
+}, {
+  "name": "The Departed",
+  "rating": "8.5",
+  "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston."
+}, {
+  "name": "The Pianist",
+  "rating": "8.5",
+  "description": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II."
+}, {
+  "name": "Gladiator",
+  "rating": "8.5",
+  "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+}, {
+  "name": "American History X",
+  "rating": "8.5",
+  "description": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did."
+}, {
+  "name": "The Usual Suspects",
+  "rating": "8.5",
+  "description": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup."
+}, {
+  "name": "Léon",
+  "rating": "8.5",
+  "description": "Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade."
+}, {
+  "name": "The Lion King",
+  "rating": "8.5",
+  "description": "A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities."
+}, {
+  "name": "Terminator 2: Judgment Day",
+  "rating": "8.5",
+  "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg."
+}, {
+  "name": "Nuovo Cinema Paradiso",
+  "rating": "8.5",
+  "description": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist."
+}, {
+  "name": "Hotaru no haka",
+  "rating": "8.5",
+  "description": "A young boy and his little sister struggle to survive in Japan during World War II."
+}, {
+  "name": "Back to the Future",
+  "rating": "8.5",
+  "description": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown."
+}, {
+  "name": "Once Upon a Time in the West",
+  "rating": "8.5",
+  "description": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad."
+}, {
+  "name": "Tengoku to jigoku",
+  "rating": "8.5",
+  "description": "An executive of a shoe company becomes a victim of extortion when his chauffeur's son is kidnapped and held for ransom."
+}, {
+  "name": "Psycho",
+  "rating": "8.5",
+  "description": "A Phoenix secretary embezzles forty thousand dollars from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother."
+}]
