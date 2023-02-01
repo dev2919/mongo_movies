@@ -12,6 +12,6 @@
   "dependencies": {
     "csv-into-json": "^1.0.34",
     "csvtojson": "^2.0.10",
-    "mongoose": "^5.9.19"
+    "mongoose": "^5.13.15"
   }
 }
